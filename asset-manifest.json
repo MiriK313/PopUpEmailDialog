@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PopUpEmailDialog/static/css/main.418d1d00.css",
+    "main.js": "/PopUpEmailDialog/static/js/main.7376d974.js",
+    "static/js/787.091119b9.chunk.js": "/PopUpEmailDialog/static/js/787.091119b9.chunk.js",
+    "index.html": "/PopUpEmailDialog/index.html",
+    "main.418d1d00.css.map": "/PopUpEmailDialog/static/css/main.418d1d00.css.map",
+    "main.7376d974.js.map": "/PopUpEmailDialog/static/js/main.7376d974.js.map",
+    "787.091119b9.chunk.js.map": "/PopUpEmailDialog/static/js/787.091119b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.418d1d00.css",
+    "static/js/main.7376d974.js"
+  ]
+}
